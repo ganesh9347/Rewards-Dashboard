@@ -1,0 +1,19 @@
+.user-list {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #f9f9f9;
+}
+.user-list h2 {
+    text-align: center;
+}
+.user-list ul {
+    list-style: none;
+    padding: 0;
+}
+.user-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}

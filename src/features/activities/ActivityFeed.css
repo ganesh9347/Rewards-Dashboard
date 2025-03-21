@@ -1,0 +1,38 @@
+.activity-feed {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #f9f9f9;
+}
+
+.activity-feed h2 {
+    text-align: center;
+}
+
+.activity-feed ul {
+    list-style: none;
+    padding: 0;
+}
+
+.activity-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    background: #fff;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.activity-item .points {
+    color: green;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.activity-item .timestamp {
+    display: block;
+    font-size: 0.8em;
+    color: gray;
+    margin-top: 5px;
+}
