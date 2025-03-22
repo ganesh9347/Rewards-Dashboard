@@ -10,7 +10,7 @@ const AdminDashboard = () => {
 
     return (
         <div className="admin-dashboard">
-            <h2>Admin Dashboard</h2>
+            <h2>Rewards Dashboard</h2>
             <div className="tabs">
                 <button onClick={() => setTab('users')} className={tab === 'users' ? 'active' : ''}>Users</button>
                 <button onClick={() => setTab('rewards')} className={tab === 'rewards' ? 'active' : ''}>Rewards</button>
