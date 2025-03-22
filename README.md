@@ -1,9 +1,9 @@
 # Reward Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 A React-based Reward Dashboard for managing user points.
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 1. Clone the repository:
    ```sh
    git clone <repository-url>
@@ -41,5 +41,5 @@ Choosed Vercel for deployment due to easy setup
 
 repositery url:
 
-GitHub Repo URL:** 
+GitHub Repo URL:** https://github.com/ganesh9347/Rewards-Dashboard.git
 **Live Demo URL:**  https://rewards-dashboard-sable.vercel.app/
